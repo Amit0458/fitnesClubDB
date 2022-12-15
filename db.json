@@ -1123,6 +1123,16 @@
         "exp" : "Intermediate",
         "views" : "5/0",
         "type" : "female"
+    },
+    {
+        "id" : "112",
+        "image" : "https://www.jefit.com/assets/img/routine/banner-large/wide_bulking_m.png",
+        "title" : "4x Full Body v2",
+        "frequency" : "5 days",
+        "category" : "Maintaining",
+        "exp" : "Beginner",
+        "views" : "5/0",
+        "type" : "female"
     }
 ]
 }
